@@ -2,5 +2,4 @@
 Just another repository
 
 Hello world.
-
-Firt steps in this new world and then... to the moon! :D
+First steps in this new world and then... to the moon! :D
